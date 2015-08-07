@@ -85,9 +85,6 @@
 				2DE871F21B74ABD000B2AEAD /* AppDelegate.m */,
 				2DE871F41B74ABD000B2AEAD /* ViewController.h */,
 				2DE871F51B74ABD000B2AEAD /* ViewController.m */,
-				2DE871F71B74ABD000B2AEAD /* Main.storyboard */,
-				2DE871FA1B74ABD000B2AEAD /* Images.xcassets */,
-				2DE871FC1B74ABD000B2AEAD /* LaunchScreen.xib */,
 				2DE871ED1B74ABD000B2AEAD /* Supporting Files */,
 			);
 			path = ResourcePasteSaver;
@@ -96,6 +93,9 @@
 		2DE871ED1B74ABD000B2AEAD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2DE871F71B74ABD000B2AEAD /* Main.storyboard */,
+				2DE871FA1B74ABD000B2AEAD /* Images.xcassets */,
+				2DE871FC1B74ABD000B2AEAD /* LaunchScreen.xib */,
 				2DE871EE1B74ABD000B2AEAD /* Info.plist */,
 				2DE871EF1B74ABD000B2AEAD /* main.m */,
 			);
